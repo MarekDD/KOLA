@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-11T13:48:50.502725+00:00",
+  "bikes": [
+    {
+      "number": 1,
+      "discount": 0,
+      "sold": false,
+      "actualPrice": null
+    },
+    {
+      "number": 2,
+      "discount": 0,
+      "sold": false,
+      "actualPrice": null
+    },
+    {
+      "number": 3,
+      "discount": 0,
+      "sold": false,
+      "actualPrice": null
+    },
+    {
+      "number": 4,
+      "discount": 0,
+      "sold": false,
+      "actualPrice": null
+    },
+    {
+      "number": 5,
+      "discount": 0,
+      "sold": false,
+      "actualPrice": null
+    },
+    {
+      "number": 6,
+      "discount": 0,
+      "sold": false,
+      "actualPrice": null
+    },
+    {
+      "number": 7,
+      "discount": 0,
+      "sold": false,
+      "actualPrice": null
+    },
+    {
+      "number": 8,
+      "discount": 0,
+      "sold": false,
+      "actualPrice": null
+    },
+    {
+      "number": 9,
+      "discount": 0,
+      "sold": false,
+      "actualPrice": null
+    },
+    {
+      "number": 10,
+      "discount": 0,
+      "sold": false,
+      "actualPrice": null
+    },
+    {
+      "number": 11,
+      "discount": 0,
+      "sold": false,
+      "actualPrice": null
+    },
+    {
+      "number": 12,
+      "discount": 0,
+      "sold": false,
+      "actualPrice": null
+    },
+    {
+      "number": 13,
+      "discount": 0,
+      "sold": false,
+      "actualPrice": null
+    },
+    {
+      "number": 14,
+      "discount": 0,
+      "sold": false,
+      "actualPrice": null
+    },
+    {
+      "number": 15,
+      "discount": 0,
+      "sold": false,
+      "actualPrice": null
+    },
+    {
+      "number": 16,
+      "discount": 0,
+      "sold": false,
+      "actualPrice": null
+    },
+    {
+      "number": 17,
+      "discount": 0,
+      "sold": false,
+      "actualPrice": null
+    }
+  ]
+}
